@@ -1,0 +1,23 @@
+torri-gate-frontend
+
+Tenant Owner dshboard
+
+MERN STACK- monogobd express react node js
+
+frontend
+react
+tailwind daisy ui
+axios
+react-icons
+context-api
+
+backend
+monogobd/mongoose
+express/node js
+
+FEATURES
+1.User Authentication(Login,Register,forgot password reset password)
+2. Role Based access Control (RBAC)
+3. File uploads
+4. email sending
+5. Crud operations
